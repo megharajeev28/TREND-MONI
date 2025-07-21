@@ -42,3 +42,8 @@ sequenceDiagram
     Analyst Agents-->>Reporter Agent: Pass enriched data (summaries, tags, sentiment)
     Reporter Agent->>Reporter Agent: Aggregate insights & identify macro-trends
     Reporter Agent-->>Brand Team: Deliver formatted Trend Brief (Email/Slack)
+
+
+<img width="2048" height="1778" alt="AI AGENT " src="https://github.com/user-attachments/assets/2704cb3d-8caf-4492-bfdf-6b6c5357ba51" />
+
+    
