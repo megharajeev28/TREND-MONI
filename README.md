@@ -1,4 +1,4 @@
-# TREND-MONI
+# TREND-MONI - created by BSQUAD (MEGHA RAJEEV)
 Multi-Agent Social Intelligence System
 This project is a sophisticated multi-agent AI system designed to automate social media intelligence for brand teams. It tracks a curated list of influencers and competitors across multiple platforms, analyzes their content in near real-time, and delivers actionable trend briefs every 48 hours.
 
